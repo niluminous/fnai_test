@@ -6,3 +6,12 @@
 .profile.lead img[src*="avatar-placeholder.svg"]{min-height:280px;height:auto}
 .small-grid .profile img[src*="avatar-placeholder.svg"]{padding:18%}
 
+/* Final card spacing and publication legend/alignment overrides. */
+.news-item{padding:32px 36px}
+.project{padding:30px 38px}
+.media-item{padding:38px 44px}
+.pub-list li{padding:24px 28px 24px 64px}
+.pub-list li:before{left:24px;top:24px;line-height:1.45}
+.publication-key{display:inline-flex;align-items:center;gap:9px;margin-top:14px!important;padding:9px 13px;border-radius:10px;background:rgba(255,216,93,.16);font-size:15px!important}
+.publication-key .key-swatch{display:inline-block;width:24px;height:14px;border-radius:4px;background:#ffd85d;border:1px solid rgba(22,57,88,.12)}
+@media(max-width:760px){.news-item{padding:26px 24px}.project{padding:26px 24px}.media-item{padding:28px 24px}.pub-list li{padding:22px 18px 22px 52px}.pub-list li:before{left:18px;top:22px}}

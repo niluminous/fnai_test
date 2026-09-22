@@ -56,4 +56,3 @@ document.querySelectorAll('img[src="assets/logo.png"]').forEach((img) => {
 document.querySelectorAll('.profile img[src*="avatar-placeholder.svg"]').forEach((img) => {
   img.setAttribute('src', 'assets/avatar-placeholder.svg');
 });
-
