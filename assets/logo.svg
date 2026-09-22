@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="FNAI Lab">
+  <path d="M28 108c8 46 42 68 72 68s64-22 72-68H28z" fill="#5b6e8c"/>
+  <path d="M36 108h128" stroke="#4a5d78" stroke-width="4"/>
+  <text x="100" y="152" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#e8eef2">FNAI</text>
+  <ellipse cx="68" cy="76" rx="18" ry="30" transform="rotate(-28 68 76)" fill="#84a87f"/>
+  <ellipse cx="88" cy="68" rx="14" ry="26" transform="rotate(-12 88 68)" fill="#6f9a6c"/>
+  <circle cx="110" cy="88" r="16" fill="#cf8579"/>
+  <ellipse cx="138" cy="80" rx="16" ry="11" fill="#c4b7a6"/>
+  <rect x="132" y="80" width="12" height="18" rx="4" fill="#ddd4c8"/>
+  <circle cx="118" cy="40" r="5.5" fill="#efb962"/>
+  <circle cx="144" cy="34" r="5.5" fill="#efb962"/>
+  <circle cx="154" cy="56" r="5.5" fill="#efb962"/>
+  <path d="M118 40L144 34L154 56" fill="none" stroke="#efb962" stroke-width="3.5" stroke-linecap="round"/>
+  <ellipse cx="170" cy="56" rx="8" ry="12" fill="#9aa7b0"/>
+  <rect x="166" y="66" width="8" height="38" rx="3" transform="rotate(-18 170 85)" fill="#9aa7b0"/>
+</svg>
+
