@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Member photo placeholder">
+  <rect width="128" height="128" fill="#e6ecef"/>
+  <circle cx="64" cy="64" r="52" fill="#163958"/>
+  <text x="64" y="78" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#d9e4e9">FL</text>
+</svg>
+
